@@ -16,7 +16,7 @@ Say a team wants to automate a weekly report. I'd ask, in this order:
 ### What I'm building
 
 - **CORA Marketing Agent**: segments customers, predicts who will respond to a campaign and drafts personalized messages.
-- **Nestlife**: a family and life planner in a single HTML file, with no account. Data stays in your browser.
+- **[Nestlife](https://github.com/mansibhat88/nestlife-toolkit)**: a family and life planner in a single HTML file, with no account. Data stays in your browser.
 
 ### A bit about me
 
